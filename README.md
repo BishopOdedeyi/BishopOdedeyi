@@ -5,7 +5,7 @@
 - 📫 Reach me via email [odedeyibishop@gmail.com](mailto:odedeyibishop@gmail.com) 
 - 😄 Pronouns: I am a male
 - ⚡ Fun fact: I Love to program even though it depresses and frustrates me countless times 😂😂😂
-- 🤝 Lokking forward to connecting with other programmers Thank You 🥰🥰🥰
+- 🤝 Looking forward to connecting with other programmers Thank You 🥰🥰🥰
 
 <!---
 BishopOdedeyi/BishopOdedeyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
